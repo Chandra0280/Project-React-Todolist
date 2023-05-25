@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+#inputtext{
+    width: 50%;
+    margin-left: 340px;
+    background-color: #38025c;
+}
+
+#text1{
+    color: white;
+}
+
+#text2{
+    color: white;
+}
+
+#save{
+    background-color: #38025c;
+}
+
+#edit{
+    background-color: #38025c;
+}
+
+#remove{
+    background-color: #38025c;
+}
